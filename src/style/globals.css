@@ -56,31 +56,43 @@
   }
 
   /* Subtitle */
+
+  /* Sub/16/Semibold */
   .text-subtitle-sb {
     font-weight: 600;
     font-size: 16px;
     line-height: 22px;
   }
+
+  /* Sub/16/Medium */
   .text-subtitle-md {
     font-weight: 500;
     font-size: 16px;
     line-height: 22px;
   }
+
+  /* Sub/16/Regular */
   .text-subtitle-rg {
     font-weight: 400;
     font-size: 16px;
     line-height: 22px;
   }
+
+  /* Sub/15/Semibold */
   .text-subtitle-sm-sb {
     font-weight: 600;
     font-size: 15px;
     line-height: 21px;
   }
+
+  /* Sub/15/Medium */
   .text-subtitle-sm-md {
     font-weight: 500;
     font-size: 15px;
     line-height: 21px;
   }
+
+  /* Sub/15/Regular */
   .text-subtitle-sm-rg {
     font-weight: 400;
     font-size: 15px;
@@ -88,36 +100,48 @@
   }
 
   /* Body */
+
+  /* Body/15/Medium */
   .text-body {
     font-weight: 500;
     font-size: 15px;
     line-height: 21px;
   }
+
+  /* Body/14/Medium */
   .text-body-md {
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
   }
+
+  /* Body/14/Regular */
   .text-body-rg {
     font-weight: 400;
     font-size: 14px;
     line-height: 20px;
   }
+
   .text-body-sm {
     font-weight: 500;
     font-size: 13px;
     line-height: 18px;
   }
+
+  /* Body/13/Regular */
   .text-body-sm-rg {
     font-weight: 400;
     font-size: 13px;
     line-height: 18px;
   }
+
   .text-body-xs {
     font-weight: 500;
     font-size: 12px;
     line-height: 17px;
   }
+
+  /* Body/12/Regular */
   .text-body-xs-rg {
     font-weight: 400;
     font-size: 12px;
